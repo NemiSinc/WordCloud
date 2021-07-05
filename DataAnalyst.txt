@@ -1,0 +1,60 @@
+Data Analyst Roles and Responsibilities : All You Need to Know
+
+Data is increasingly shaping the systems that we interact with every day. Whether you’re, searching for something on Google, using Siri, or browsing your Facebook feed, you’re consuming and generating data. We have reached an era where we generate 2.5 Quintillion bytes of it every day, that’s a heck of a lot of data. So, What to do with that data?  Well, that is where Data Analyst comes into the picture.  So Let’s have a look at the Data Analyst Roles and Responsibilities.
+
+In this Blog, I’ll be covering the Following Topics:
+
+Who is a Data Analyst?
+Data Analyst Roles and Responsibilities
+So, before diving into the Data Analyst Roles and Responsibilities, let’s see who exactly is a Data Analyst?
+
+
+Who is a Data Analyst?
+A Data Analysts deliver value to their companies by taking information about specific topics and then interprets, analyzes, and presents findings in comprehensive reports. Many different types of businesses use data analysts to help. As experts, data analysts are often called on to use their skills and tools to provide competitive analysis and identify trends within industries.
+
+Mining Data
+Data mining is a process to structure the raw data and formulate or recognize the various patterns in the data through the mathematical and computational algorithms. It helps to generate new information and unlock the various insights. Data Analysts have to often mine or collect data. Getting data from the company database or extracting it from external sources to do any sort of research is one of the major roles of any Data Analyst.
+
+Data Cleaning
+Data cleansing is the first step in the overall data preparation process and is the process of analyzing, identifying and correcting messy, raw data. When analyzing organizational data to make strategic decisions Data Analysts must start with a thorough data cleansing process. The good analysis rests on clean data–it’s as simple as that. Cleaning involves removing data that may distort your analysis or standardizing your data into a single format.
+
+ 
+
+Analyzing Data 
+Needless to say, this role is a must for any Data Analyst. Data analytics is the art of exploring the facts from the data with specific to answer a specific question.
+
+It is the process of evaluating data using analytical and logical reasoning to examine each component of the data provided. One uses statistical tools to analyze and interpret the data.
+
+There are various tools and programming languages used in the analysis.
+
+ 
+
+Pinpointing Trends and Patterns
+A large time of a Data analyst is spent on finding trends, correlations, and patterns in the complicated datasets. Trends are also important. Data Analysts look for both short-term and long-term trends.
+
+Creating Reports with Clear Visualizations
+visualization
+
+ 
+
+Reporting translates raw data into information. Reporting helps companies to monitor their online business and be alerted to when data falls outside of expected ranges. Good reporting should raise questions about the business from its end users.
+
+ 
+
+Being able to tell a compelling story with data is crucial to getting your point across and keeping your audience engaged. For this reason, data visualization can have a make-or-break effect when it comes to the impact of your data. Analysts use eye-catching, high-quality charts and graphs to present their findings in a clear and concise way.
+
+ 
+
+Maintaining Databases and Data Systems
+DatabasesData Analysts have to ensure that the storage, availability, and coherence of electronically stored data meet an organization’s needs.  Data Analyst needs to have technical expertise regarding data models, database design development to make the best use of it.
+
+ 
+
+They Develop and maintain databases by acquiring data from primary and secondary sources, and build scripts that will make our data evaluation process more flexible or scalable across datasets.
+
+
+Data analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.[1] Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains.[2] In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively.[3]
+
+Data mining is a particular data analysis technique that focuses on statistical modeling and knowledge discovery for predictive rather than purely descriptive purposes, while business intelligence covers data analysis that relies heavily on aggregation, focusing mainly on business information.[4] In statistical applications, data analysis can be divided into descriptive statistics, exploratory data analysis (EDA), and confirmatory data analysis (CDA).[5] EDA focuses on discovering new features in the data while CDA focuses on confirming or falsifying existing hypotheses.[6][7] Predictive analytics focuses on the application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a species of unstructured data. All of the above are varieties of data analysis.[8]
+
+Data integration is a precursor to data analysis, and data analysis is closely linked to data visualization and data dissemination.[9]
